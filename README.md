@@ -1,9 +1,14 @@
 # MWE4MT
-PhD Thesis MWE-MT related tools and sources
+PhD Thesis MWE-MT related tools and sources.
+
+This project includes many components, such as:
+1. the way to extract English-Chinese MWEs (based on MWEtools, MWEtoolkit, MP-aligner) 
+2. integrating MWEs into NMT
+3. the integration of Chinese radical into NMT
 
 
 
-[Reference links:]
+[Reference projects links:]
 
 MWEtoolkit https://github.com/KWARC/mwetoolkit 
 
@@ -12,8 +17,10 @@ MP-aligner https://github.com/pmarcis/mp-aligner
 MWEtools https://github.com/M4t1ss/MWE-Tools
 
 
---
-Contributed project: https://github.com/alfredomg/ADAPT-MWE17
+
+[Contributed project:] 
+https://github.com/alfredomg/ADAPT-MWE17
+
 
 Publication:
 
