@@ -5,7 +5,9 @@ This project includes many components, such as:
 1. the way to extract English-Chinese MWEs (based on MWEtools, MWEtoolkit, MP-aligner) 
 2. integrating MWEs into NMT
 3. the integration of Chinese radical into NMT
+4. the German-English MWEs corpus and results for MT.
 
+...(more coming)
 
 
 [Reference projects links:]
@@ -21,6 +23,7 @@ MWEtools https://github.com/M4t1ss/MWE-Tools
 [Contributed project:] 
 https://github.com/alfredomg/ADAPT-MWE17
 
+[If you use the corpus or the tools, please kindly cite the corresponding papers from below:] 
 
 Publication:
 
