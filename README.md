@@ -6,6 +6,7 @@ This project includes many components, such as:
 2. integrating MWEs into NMT
 3. the integration of Chinese radical into NMT
 4. the German-English MWEs corpus and results for MT.
+4.1 the extracted De-En bilingual MWEs (File "new5m.train.MPOutput_filtered085to100" contain the 3,159,226 parallel MWEs with original PoS information. File "./Copy_of_new5m.train.MPOutput_filtered085to100.en" and "Copy_of_new5m.train.MPOutput_filtered085to100.de" contain the extracted clean en and de MWEs respectively which are line be line aligned with each other. Folder: https://drive.google.com/drive/folders/10M42jup0vbWmXxsnZOvgsbj8dqcp51DR?usp=sharing)
 
 ...(more coming)
 
