@@ -1,0 +1,52 @@
+\documentclass[11pt]{extarticle}
+
+% packages to use Chinese characters in xelatex
+% consider to use fonts with a good coverage of CJK
+% Example are HanaMin or Hanamin AFDKO
+% http://fonts.jp/hanazono/
+% https://github.com/cjkvi/HanaMinAFDKO/releases
+\usepackage{xeCJK}
+\usepackage{newunicodechar}
+
+% Main font for CJK
+\setCJKmainfont{Hanazono Mincho A}
+
+% This way you import new fonts (outside CJK range)
+\newfontfamily\SourceHanSerif{Source Han Serif}
+
+% This way you import new fonts for CJK
+\newCJKfontfamily\HamazonoMinB{Hanazono Mincho B}
+\newCJKfontfamily\HamazonoMinC{Hanazono Mincho C}
+\newCJKfontfamily\IPAexMincho{IPAexMincho}
+
+
+
+% If a character is missing in the main font you can patch it up using this command
+% In this example 𠚍 and 𠂭 use the Hanazo Mincho B font
+\newunicodechar{𠚍}{{\HamazonoMinB 𠚍}}
+\newunicodechar{𠂭}{{\HamazonoMinB 𠂭}}
+\newunicodechar{𬋢}{{\HamazonoMinC 𬋢}}
+\newunicodechar{①}{{\SourceHanSerif ①}}
+\newunicodechar{⑲}{{\SourceHanSerif ⑲}}
+\newunicodechar{⑳}{{\SourceHanSerif ⑳}}
+
+% To detect what font has a character one possiblity is:
+% . open libreoffice writer
+% . type the character
+% . if the system shows it properly, export the file to pdf
+% . use pdffonts to see what fonts are inside the pdf
+% . the name will be mangled, but hopefully detectable in the fc-list output
+
+
+\usepackage{url}
+\begin{document}
+
+\section{Example}
+
+For the Chinese Characters decompose, we used the IDS data for CJK Unified Ideographs\footnote{\url{https://github.com/cjkvi/cjkvi-ids}}; in the repo the \texttt{ids.txt} file contains a mapping between almost 90 thousands Chinese Japanese or Korean characters and radicals and their decomposition.  For the characters with multiple decompositions we used the one from mainland China.  For example 乢 maps to ⿰山乚; complex characters can often decomposed further.  For example 鬱 maps to ⿳⿲木缶木冖⿰鬯彡, its component 鬯 maps to ⿱𠚍匕, and again 𠚍 maps to ⿶凵𠂭.
+
+The circled integer (①--⑳) are used to denote the number strokes where the representing character is not known or not available to Unicode. For example 𬋢 expands to ⿱⿰禾⑲火.
+
+
+\end{document}
+
