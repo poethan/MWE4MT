@@ -3,10 +3,12 @@ PhD Thesis MWE-MT related tools and sources.
 
 This project includes many components, such as:
 1. the way to extract English-Chinese MWEs (based on MWEtools, MWEtoolkit, MP-aligner); extracted bilingual en-zh MWEs uploaded in this repository.
+1.1 Files wmt18zhen_extractMWE.en and wmt18zhen_extractMWE.zh uploaded here are extracted bilingual English-Chinese MWEs without filtering. The filtered MWEs can be found with the following folder link [https://drive.google.com/drive/folders/19ZY0qkEgvE5p_fgi89UTR7PzBcDCpQdx?usp=sharing] free for research purpose (request needed to lifeng.han@adaptcentre.ie)
+
 2. integrating MWEs into NMT in various languages.
 3. the integration of Chinese radical into NMT
 4. the German-English MWEs corpus and impacts for MT.
-4.1 the extracted De-En bilingual MWEs (File "new5m.train.MPOutput_filtered085to100" contain the 3,159,226 parallel MWEs with original PoS information. File "./Copy_of_new5m.train.MPOutput_filtered085to100.en" and "Copy_of_new5m.train.MPOutput_filtered085to100.de" contain the extracted clean en and de MWEs respectively which are line be line aligned with each other. Folder: https://drive.google.com/drive/folders/10M42jup0vbWmXxsnZOvgsbj8dqcp51DR?usp=sharing)
+4.1 the extracted De-En bilingual MWEs (File "new5m.train.MPOutput_filtered085to100" contain the 3,159,226 parallel MWEs with original PoS information. File "./Copy_of_new5m.train.MPOutput_filtered085to100.en" and "Copy_of_new5m.train.MPOutput_filtered085to100.de" contain the extracted clean en and de MWEs respectively which are line be line aligned with each other. Folder: the same above link)
 
 ...(more coming)
 ===
