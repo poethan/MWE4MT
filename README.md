@@ -75,9 +75,18 @@ Publications:
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
+[III - MWE+MT:]
+
+(Actural experiments done in 2019)
+@article{HanJonesSmeaton2020MultiMWE,
+  author    = {Lifeng Han, Gareth Jones and Alan Smeaton},
+  title     = {MultiMWE: Building a Multi-lingual Multi-Word Expression (MWE) Parallel Corpora},
+  journal   = {Proceedings of LREC},
+  year      = {2020},
+  url       = {https://www.researchgate.net/publication/339202358_MultiMWE_Building_a_Multi-lingual_Multi-Word_Expression_MWE_Parallel_Corpora}
+}
+
 Ongoinging: Further work
 
-
-[III - MWE+MT/MTE:]
-forthcoming https://drive.google.com/drive/folders/1aUBijXQJQh4ayn5pta0fee8lUk0b48DG?usp=sharing 
+[IV - Linguistics Aware MWE+MT/MTE:]
 
