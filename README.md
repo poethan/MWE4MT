@@ -90,3 +90,5 @@ Ongoinging: Further work
 
 [IV - Linguistics Aware MWE+MT/MTE:]
 
+"Unveil the Myth of Chinese Characters in Neural Machine Translation". Lifeng Han. 2020. Accepted to present in the 'TCD Postgraduate Annual Conference. Trinity College Dubin, Ireland. April 3-5th.'
+
