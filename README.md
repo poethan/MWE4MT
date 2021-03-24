@@ -92,11 +92,12 @@ Publications:
 }
 
 
-Ongoinging: Further work
+Ongoinging: and Further work
 
 [IV - Linguistics Aware MWE+MT/MTE:]
 
 "Unveil the Myth of Chinese Characters in Neural Machine Translation". Lifeng Han. 2020. Accepted to present in the "TCD Postgraduate Annual Conference - Abstract Presenation". Trinity College Dubin, Ireland. April 3-5th. Please see the file uploaded there <PG conference-Unveil the myth of Chinese characters in neural machine translation-Lifeng Han.pdf> and the conference web page http://trinityaiconference.com for detail and proper citation.
   
-  
+Lifeng Han, Gareth Jones, Alan Smeaton and Paolo Bolzoni. 2021. Chinese Character Decomposition for Neural MT with Multi-Word Expressions. 23rd Nordic Conference on Computational Linguistics (NoDaLiDa), forthcoming (accepted paper).
+
 
