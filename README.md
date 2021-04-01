@@ -56,7 +56,7 @@ Han, Lifeng and Kuang, Shaohui (2018) Incorporating Chinese radicals into neural
 Han, Lifeng, Gareth, Jones  and Alan F., Smeaton  (2020) MultiMWE: building a multi-lingual multi-word expression (MWE) parallel
  corpora. In: 12th International Conference on Language Resources and Evaluation (LREC), 11-16 May, 2020, Marseille, France. (Virtual).
 
-Lifeng Han, Gareth Jones, Alan Smeaton and Paolo Bolzoni. 2021. Chinese Character Decomposition for Neural MT with Multi-Word Expressions. 23rd Nordic Conference on Computational Linguistics (NoDaLiDa), forthcoming (accepted paper).
+Lifeng Han, Gareth Jones, Alan Smeaton and Paolo Bolzoni. 2021. Chinese Character Decomposition for Neural MT with Multi-Word Expressions. 23rd Nordic Conference on Computational Linguistics (NoDaLiDa), forthcoming (accepted paper). Data available under the subfolder 'radical4mt'.
 
 
 
