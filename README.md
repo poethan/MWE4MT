@@ -12,6 +12,9 @@ This project includes many components:
 4. the German-English MWEs corpus and impacts for MT.
 4.1 the extracted De-En bilingual MWEs (File "new5m.train.MPOutput_filtered085to100" contain the 3,159,226 parallel MWEs with original PoS information. File "./Copy_of_new5m.train.MPOutput_filtered085to100.en" and "Copy_of_new5m.train.MPOutput_filtered085to100.de" contain the extracted clean en and de MWEs respectively which are line be line aligned with each other. Folder: the same above link)
 
+5. The radical4mt folder: NoDaLiDa2021 paper data. Chinese character decompositon in detailed levels and its application in NMT, plus bilingual Chinese-English MWEs with Chinese MWE terms decomposed in three levels. These corpus can be used as knowledge base for many NLP tasks, such as cross-lingual and multiliingual NLPs, bilingual terminology database.
+
+
 ...(more coming)
 ===
 
