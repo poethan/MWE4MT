@@ -19,6 +19,7 @@ This project includes many components:
 
 
 ===
+
 [If you use the corpus or the tools from MWE4MT git repositories, please kindly cite the corresponding papers from below:] 
 
 Publications:
@@ -52,7 +53,7 @@ Ongoinging: and Further work
 
 [IV - Linguistics Aware MWE+MT/MTE:]
 
-"Unveil the Myth of Chinese Characters in Neural Machine Translation". Lifeng Han. 2020. Accepted to present in the "TCD Postgraduate Annual Conference - Abstract Presenation". Trinity College Dubin, Ireland. April 3-5th. Please see the file uploaded there <PG conference-Unveil the myth of Chinese characters in neural machine translation-Lifeng Han.pdf> and the conference web page http://trinityaiconference.com for detail and proper citation.
+"Unveil the Myth of Chinese Characters in Neural Machine Translation". Lifeng Han. 2020. Accepted to present in the "TCD Postgraduate Annual Conference - Abstract Presenation". Trinity College Dubin, Ireland. April 3-5th. A brief discription of our work published in NoDaLiDa2021.
   
 ===
 
