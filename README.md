@@ -35,7 +35,7 @@ Alfredo Maldonado, Lifeng Han, Erwan Moreau, Ashjan Alsulaimani, Koel Dutta Chow
 [II - character decomposition for MT:]
 
 (Experiments carried out and finished in 2017)
-Han, Lifeng and Kuang, Shaohui (2018) Incorporating Chinese radicals into neural machine translation: deeper than character level. In: 30th European Summer School in Logic, Language and Information (ESSLLI 2018), 6-17 Aug 2018, Sofia, Bulgaria.
+Han, Lifeng and Kuang, Shaohui (2018) Incorporating Chinese radicals into neural machine translation: deeper than character level. In: 30th European Summer School in Logic, Language and Information (ESSLLI 2018), 6-17 Aug 2018, Sofia, Bulgaria. http://doras.dcu.ie/24732/8/esslli_han_incorperating_.pdf  
 
 
 
@@ -43,9 +43,9 @@ Han, Lifeng and Kuang, Shaohui (2018) Incorporating Chinese radicals into neural
 
 
 Han, Lifeng, Gareth, Jones  and Alan F., Smeaton  (2020) MultiMWE: building a multi-lingual multi-word expression (MWE) parallel
- corpora. In: 12th International Conference on Language Resources and Evaluation (LREC), 11-16 May, 2020, Marseille, France. (Virtual).
+ corpora. In: 12th International Conference on Language Resources and Evaluation (LREC), 11-16 May, 2020, Marseille, France. (Virtual).  https://www.aclweb.org/anthology/2020.lrec-1.363/  
 
-Lifeng Han, Gareth Jones, Alan Smeaton and Paolo Bolzoni. 2021. Chinese Character Decomposition for Neural MT with Multi-Word Expressions. 23rd Nordic Conference on Computational Linguistics (NoDaLiDa), forthcoming (accepted paper). Data available under the subfolder 'radical4mt'.
+Lifeng Han, Gareth Jones, Alan Smeaton and Paolo Bolzoni. 2021. Chinese Character Decomposition for Neural MT with Multi-Word Expressions. 23rd Nordic Conference on Computational Linguistics (NoDaLiDa). Data available under the subfolder 'radical4mt'. https://www.aclweb.org/anthology/2021.nodalida-main.35/ 
 
 
 
