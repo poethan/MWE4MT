@@ -26,10 +26,10 @@ Publications:
 
 [I - MWE recognition:]
 
-Moreau, Erwan, Alsulaimani, Ashjan, Maldonado, Alfredo , Han, Lifeng, Vogel, Carl  and Dutta Chowdhury, Koel (2018) Semantic reranking of CRF label sequences for verbal multiword expression identification. In: Markantonatou, Stella, Ramisch, Carlos , Savary, Agata and Vincze, Veronika , (eds.) Multiword expressions at length and in depth: Extended papers from the MWE 2017 workshop. Language Science Press, Berlin, pp. 177-207. ISBN 978-3-96110-124-5
+Moreau, Erwan, Alsulaimani, Ashjan, Maldonado, Alfredo , Han, Lifeng, Vogel, Carl  and Dutta Chowdhury, Koel (2018) Semantic reranking of CRF label sequences for verbal multiword expression identification. In: Markantonatou, Stella, Ramisch, Carlos , Savary, Agata and Vincze, Veronika , (eds.) Multiword expressions at length and in depth: Extended papers from the MWE 2017 workshop. Language Science Press, Berlin, pp. 177-207. ISBN 978-3-96110-124-5 
 
 
-Alfredo Maldonado, Lifeng Han, Erwan Moreau, Ashjan Alsulaimani, Koel Dutta Chowdhury, Carl Vogel and Qun Liu, Detection of Verbal Multi-Word Expressions via Conditional Random Fields with Syntactic Dependency Features and Semantic Re-Ranking, Proceedings of the 13th Workshop on Multiword Expressions (MWE 2017), Valencia, Spain, April 4, 2017, Stella Markantonatou, Carlos Ramisch, Agata Savary, and Veronika Vincze, Association for Computational Linguistics, 2017, 114-120
+Alfredo Maldonado, Lifeng Han, Erwan Moreau, Ashjan Alsulaimani, Koel Dutta Chowdhury, Carl Vogel and Qun Liu, Detection of Verbal Multi-Word Expressions via Conditional Random Fields with Syntactic Dependency Features and Semantic Re-Ranking, Proceedings of the 13th Workshop on Multiword Expressions (MWE 2017), Valencia, Spain, April 4, 2017, Stella Markantonatou, Carlos Ramisch, Agata Savary, and Veronika Vincze, Association for Computational Linguistics, 2017, 114-120 https://www.aclweb.org/anthology/W17-1715/ 
 
 
 [II - character decomposition for MT:]
