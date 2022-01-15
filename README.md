@@ -49,7 +49,6 @@ Lifeng Han, Gareth Jones, Alan Smeaton and Paolo Bolzoni. 2021. Chinese Characte
 
 
 
-Ongoinging: and Further work
 
 [IV - Linguistics Aware MWE+MT/MTE, Task-oriented MTE:]
 
@@ -79,7 +78,10 @@ Meta-evaluation of machine translation evaluation methods. L Han. Metrics-2021. 
 [Contributed projects: MWE identification] 
 https://github.com/alfredomg/ADAPT-MWE17
 
- 
+[MT evaluation and MWE portal: ]
+https://github.com/aaronlifenghan
+https://github.com/lHan87 
+
 We acknowledge and endorse the following projects:
 
 MWEtoolkit https://github.com/KWARC/mwetoolkit 
