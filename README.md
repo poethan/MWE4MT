@@ -92,4 +92,5 @@ MWEtools https://github.com/M4t1ss/MWE-Tools
 
 CHISE (CHaracter Information Service Environment) http://www.chise.org/
 
+HanZiJS (Chinese HanZi Decomposer) https://github.com/nieldlr/hanzi 
 
