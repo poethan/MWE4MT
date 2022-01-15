@@ -51,7 +51,20 @@ Lifeng Han, Gareth Jones, Alan Smeaton and Paolo Bolzoni. 2021. Chinese Characte
 
 Ongoinging: and Further work
 
-[IV - Linguistics Aware MWE+MT/MTE:]
+[IV - Linguistics Aware MWE+MT/MTE, Task-oriented MTE:]
+
+HOPE: A Task-Oriented and Human-Centric Evaluation Framework Using Professional Post-Editing Towards More Effective MT Evaluation
+S Gladkoff, L Han. arXiv preprint arXiv:2112.13833
+
+Measuring Uncertainty in Translation Quality Evaluation (TQE). S Gladkoff, I Sorokina, L Han, A Alekseeva. arXiv preprint arXiv:2111.07699
+
+cushLEPOR: customising hLEPOR metric using Optuna for higher agreement with human judgments or pre-trained language model LaBSE. L Han, I Sorokina, G Erofeev, S Gladkoff. The Sixth Conference on Machine Translation (WMT2021), November 10–11, 2021
+
+cushLEPOR uses LABSE distilled knowledge to improve correlation with human translation evaluations. G Erofeev, I Sorokina, L Han, S Gladkoff. Machine Translation Summit 2021.
+
+Translation quality assessment: a brief survey on manual and automatic methods. Lifeng Han, Gareth Jones, Alan Smeaton. 2021/4/20. Proceedings for the First Workshop on Modelling Translation: Translatology in the Digital Age. Pages 15–33.
+
+Meta-evaluation of machine translation evaluation methods. L Han. Metrics-2021. SIG-MET. Association for Information Science and Technology
 
 "Unveil the Myth of Chinese Characters in Neural Machine Translation". Lifeng Han. 2020. Accepted to present in the "TCD Postgraduate Annual Conference - Abstract Presenation". Trinity College Dubin, Ireland. April 3-5th. A brief discription of our work published in NoDaLiDa2021.
   
