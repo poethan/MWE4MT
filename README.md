@@ -4,7 +4,7 @@ PhD Thesis MWE-MT related tools and sources.
 This project includes many components, such as:
 1. the way to extract English-Chinese MWEs (based on MWEtools, MWEtoolkit, MP-aligner); extracted bilingual en-zh MWEs uploaded in this repository.
 1.1 Files wmt18zhen_extractMWE.en and wmt18zhen_extractMWE.zh uploaded here are extracted bilingual English-Chinese MWEs without filtering. The filtered MWEs can be found with the following folder link [ https://drive.google.com/drive/folders/19ZY0qkEgvE5p_fgi89UTR7PzBcDCpQdx?usp=sharing ] free for research purpose (request might needed)
-Alternative download link: 
+Alternative download link: https://drive.google.com/drive/folders/1TvUlRTJzD6pmUCNR6nhXwA2bKscvJftY?usp=sharing 
 
 2. integrating MWEs into NMT in various languages.
 3. the integration of Chinese radical into NMT
