@@ -14,6 +14,9 @@ Alternative download link:
 **Contact**: Firstname.Lastname@adaptcentre.ie (former institute) Firstname.Lastname@manchester.ac.uk (current institute) 
 Replacing Firstname: Lifeng, Lastname: Han
 
+**AlphaMWE** our another multi-lingual resource corpus with mannually annotated MWEs including English, Chinese, German, Polish, Italian, and Spanish. Available at 
+https://github.com/poethan/AlphaMWE 
+
 ...(more coming)
 ===
 
@@ -81,6 +84,20 @@ Publications:
 
 [III - MWE+MT:]
 
+@inproceedings{han-etal-2020-alphamwe,
+    title = "{A}lpha{MWE}: Construction of Multilingual Parallel Corpora with {MWE} Annotations",
+    author = "Han, Lifeng  and
+      Jones, Gareth  and
+      Smeaton, Alan",
+    booktitle = "Proceedings of the Joint Workshop on Multiword Expressions and Electronic Lexicons",
+    month = dec,
+    year = "2020",
+    address = "online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.mwe-1.6",
+    pages = "44--57",
+    abstract = "In this work, we present the construction of multilingual parallel corpora with annotation of multiword expressions (MWEs). MWEs include verbal MWEs (vMWEs) defined in the PARSEME shared task that have a verb as the head of the studied terms. The annotated vMWEs are also bilingually and multilingually aligned manually. The languages covered include English, Chinese, Polish, and German. Our original English corpus is taken from the PARSEME shared task in 2018. We performed machine translation of this source corpus followed by human post editing and annotation of target MWEs. Strict quality control was applied for error limitation, i.e., each MT output sentence received first manual post editing and annotation plus second manual quality rechecking. One of our findings during corpora preparation is that accurate translation of MWEs presents challenges to MT systems. To facilitate further MT research, we present a categorisation of the error types encountered by MT systems in performing MWE related translation. To acquire a broader view of MT issues, we selected four popular state-of-the-art MT models for comparisons namely: Microsoft Bing Translator, GoogleMT, Baidu Fanyi and DeepL MT. Because of the noise removal, translation post editing and MWE annotation by human professionals, we believe our AlphaMWE dataset will be an asset for cross-lingual and multilingual research, such as MT and information extraction. Our multilingual corpora are available as open access at github.com/poethan/AlphaMWE.",
+}
 
 @InProceedings{han-jones-smeaton:2020:LREC,
   author    = {Han, Lifeng  and  Jones, Gareth  and  Smeaton, Alan},
@@ -95,8 +112,24 @@ Publications:
   url       = { https://www.aclweb.org/anthology/2020.lrec-1.363 }
 }
 
-Lifeng Han, Gareth Jones, Alan Smeaton and Paolo Bolzoni. 2021. Chinese Character Decomposition for Neural MT with Multi-Word Expressions. 23rd Nordic Conference on Computational Linguistics (NoDaLiDa), forthcoming (accepted paper).
-
+@inproceedings{DBLP:conf/nodalida/HanJSB21,
+  author    = {Lifeng Han and
+               Gareth J. F. Jones and
+               Alan F. Smeaton and
+               Paolo Bolzoni},
+  editor    = {Simon Dobnik and
+               Lilja {\O}vrelid},
+  title     = {Chinese Character Decomposition for Neural {MT} with Multi-Word Expressions},
+  booktitle = {Proceedings of the 23rd Nordic Conference on Computational Linguistics,
+               NoDaLiDa 2021, Reykjavik, Iceland (Online), May 31 - June 2, 2021},
+  pages     = {336--344},
+  publisher = {Link{\"{o}}ping University Electronic Press, Sweden},
+  year      = {2021},
+  url       = {https://aclanthology.org/2021.nodalida-main.35/},
+  timestamp = {Fri, 06 Aug 2021 00:39:44 +0200},
+  biburl    = {https://dblp.org/rec/conf/nodalida/HanJSB21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 
 
 Ongoinging: and Further work
