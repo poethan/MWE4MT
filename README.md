@@ -20,6 +20,15 @@ Files "./Copy_of_new5m.train.MPOutput_filtered085to100.en" and "Copy_of_new5m.tr
 4. the integration of Chinese radical into NMT (sub-forlder **radical4mt** on Chinese character decomposition work inluding MWE decompositions, discribed in our NoDaLiDa paper below)
 
 
+| Tutorials and Talks |
+|---|
+
+LREC2022 Tutorial on "MetaEval of MT" 
+https://github.com/poethan/LREC22_MetaEval_Tutorial and https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/tutorials-details/
+ 
+IMS Uni.Stuttgart Invited talk on "Cracking Multi-Word Expressions in a nutshell: Neural MT walks on thin ice when facing MWEs" 
+
+
 **Contact**: Firstname.Lastname@adaptcentre.ie (former institute) Firstname.Lastname@manchester.ac.uk (current institute) 
 Replacing Firstname: Lifeng, Lastname: Han
 
