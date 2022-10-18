@@ -27,7 +27,7 @@ LREC2022 Tutorial on "MetaEval of MT"
 https://github.com/poethan/LREC22_MetaEval_Tutorial and https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/tutorials-details/
  
 IMS Uni.Stuttgart Invited talk on "Cracking Multi-Word Expressions in a nutshell: Neural MT walks on thin ice when facing MWEs" 
-
+https://github.com/poethan/MWE4MT/blob/master/Cracking_MWEs_in_a_nutshell_talk_IMS_UniStuttgart.pdf
 
 **Contact**: Firstname.Lastname@adaptcentre.ie (former institute) Firstname.Lastname@manchester.ac.uk (current institute) 
 Replacing Firstname: Lifeng, Lastname: Han
