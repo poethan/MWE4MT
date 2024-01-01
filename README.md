@@ -156,5 +156,7 @@ Ongoinging: and Further work
 
 "Unveil the Myth of Chinese Characters in Neural Machine Translation". Lifeng Han. 2020. Accepted to present in the "TCD Postgraduate Annual Conference - Abstract Presenation". Trinity College Dubin, Ireland. April 3-5th. Please see the file uploaded there <PG conference-Unveil the myth of Chinese characters in neural machine translation-Lifeng Han.pdf> and the conference web page http://trinityaiconference.com for detail and proper citation.
   
+# find the authors
+This [video](https://youtu.be/i505sTFNIaU) was a clip from the faculty forum phd presentations day https://youtu.be/i505sTFNIaU on MWE+MT
 
 
