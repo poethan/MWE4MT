@@ -32,7 +32,9 @@ https://github.com/poethan/MWE4MT/blob/master/Cracking_MWEs_in_a_nutshell_talk_I
 **Contact**: Firstname.Lastname@adaptcentre.ie (former institute) Firstname.Lastname@manchester.ac.uk (current institute) 
 Replacing Firstname: Lifeng, Lastname: Han
 
-**AlphaMWE** our another multi-lingual resource corpus with mannually annotated MWEs including English, Chinese, German, Polish, Italian, and Spanish. Available at 
+**AlphaMWE** 
+
+Our other multi-lingual resource corpus with manually annotated MWEs includes English, Chinese, German, Polish, Italian, and Spanish. Available at 
 https://github.com/poethan/AlphaMWE 
 
 ...(more coming)
