@@ -178,4 +178,8 @@ Ongoinging: and Further work
 # find the authors
 This [video](https://youtu.be/i505sTFNIaU) was a clip from the faculty forum phd presentations day https://youtu.be/i505sTFNIaU on MWE+MT
 
+This [video](https://www.youtube.com/watch?v=KiuF5JdOlLw) for AlphaMWE published in MWE-WS https://www.youtube.com/watch?v=KiuF5JdOlLw 
 
+This [video](https://www.youtube.com/watch?v=i_1SujoPmC0) for AlphaMWE-Arabic edition published in RANLP2023 https://www.youtube.com/watch?v=i_1SujoPmC0 
+
+This [video](https://www.youtube.com/watch?v=-Q9bsVC_OgY&t=6s&ab_channel=AaronPoet) for MultiMWE published in LREC2020 https://www.youtube.com/watch?v=-Q9bsVC_OgY&t=6s&ab_channel=AaronPoet 
